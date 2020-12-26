@@ -43,3 +43,17 @@ eclipse_dates = ['June 21, 2001', 'December 4, 2002', 'November 23, 2003',
 print(eclipse_dates[-3:])
 
 
+# practice
+mypraclist=[10,32.4,"sujay",True]
+print(mypraclist[0])
+print(mypraclist[-1])
+print(True in mypraclist)
+print(mypraclist[1:])
+print(mypraclist[1:3])
+print(mypraclist[:2])
+print(True not in mypraclist)
+mypraclist[0]=22
+print(mypraclist)
+
+
+
