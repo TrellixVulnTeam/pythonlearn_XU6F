@@ -29,3 +29,17 @@ print(" & ".join(sorted(names)))
 names = ["Carol", "Albert", "Ben", "Donna"]
 names.append("Eugenia")
 print(sorted(names))
+
+
+# practice
+my_prac_list=[6,7,8,2,3,4,5]
+print(max(my_prac_list))
+print(min(my_prac_list))
+print(len(my_prac_list))
+print(sorted(my_prac_list))
+print(sorted(my_prac_list,reverse=True))
+my_prac_list.append(5555)
+print(my_prac_list)
+my_name_list=["sujay","chandra","is","super"]
+print("-".join(my_name_list))
+print("\n".join(my_name_list))
