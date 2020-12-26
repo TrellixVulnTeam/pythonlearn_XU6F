@@ -42,3 +42,14 @@ print(name_length <= driving_license_character_limit)
 
 
 # print(len(835))
+
+
+# practice
+name="sujay"
+last_name="Chandra"
+
+fullname=name+" "+last_name
+print(fullname)
+
+print(name*5)
+print("sujay has brgun to code \' seriously")
