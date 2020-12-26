@@ -34,3 +34,9 @@ print(a==b)
 print(a is b)
 print(a==c)
 print(a is not c)
+
+# practice
+my_prac_dictionary={"sujay":10000,"ram":20300,"hshd":1020}
+print(my_prac_dictionary["sujay"])
+print("hshs" in my_prac_dictionary)
+print("hshd" not in my_prac_dictionary)
