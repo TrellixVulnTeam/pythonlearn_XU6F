@@ -10,5 +10,7 @@
 
 # from src.DataTypesandOperators import TypeConverters as tc
 
-from src.DataTypesandOperators import StringMethods as sm
+# from src.DataTypesandOperators import StringMethods as sm
+
+from src.DataTypesandOperators import Lists as ls
 
