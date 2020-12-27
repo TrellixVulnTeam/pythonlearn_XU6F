@@ -16,3 +16,11 @@
 
 
 # from src.DataTypesandOperators import ListsMethods as lm
+
+# from src.DataTypesandOperators import Tuples as tp
+
+# from src.DataTypesandOperators import sets as st
+
+# from src.DataTypesandOperators import DictionaryandIdentityOperators as dcio
+
+from src.DataTypesandOperators import CompoundDataTypes as cdt
