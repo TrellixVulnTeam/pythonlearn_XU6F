@@ -65,3 +65,4 @@ for i, character in enumerate(cast):
     cast[i] = character + " " + str(heights[i])
 
 print(cast)
+
