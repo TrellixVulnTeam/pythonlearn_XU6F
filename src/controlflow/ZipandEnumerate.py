@@ -66,3 +66,21 @@ for i, character in enumerate(cast):
 
 print(cast)
 
+S_list=["sujay","chandr","super","practice"]
+s1_list=[1,2,3,4]
+s2_list=[]
+for i in zip(S_list,s1_list):
+    s2_list.append(i)
+
+print(s2_list)
+
+
+s3_list=[("skd",1),("dkkf",2),("hgjf",3),("dmfkld",4)]
+nam,he=zip(*s3_list)
+print(nam)
+print(he)
+
+for i,j in enumerate(S_list):
+    print("{} {}".format(i,j))
+
+
