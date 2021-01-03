@@ -1,0 +1,4 @@
+# pip install -r requirements.txt
+# to check the depencies of project
+# pip freeze
+pillow
